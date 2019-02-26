@@ -1,0 +1,22 @@
+{
+  "name": "youtube-video-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compbruno/youtube-video-maker.git"
+  },
+  "author": "Bruno Moreira <compbrunomoreira@gmail.com> (https://github.com/compbruno)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/compbruno/youtube-video-maker/issues"
+  },
+  "homepage": "https://github.com/compbruno/youtube-video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
